@@ -27,4 +27,7 @@ h4{
     #pets{
         flex-wrap: wrap;
     }
+    .card{
+        margin: 20px;
+    }
 }
