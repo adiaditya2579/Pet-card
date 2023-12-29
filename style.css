@@ -23,7 +23,7 @@ h4{
     text-align: right;
     color: #3c787e;
 }
-@media(max-width:375px){
+@media(max-width:500px){
     #pets{
         flex-wrap: wrap;
     }
